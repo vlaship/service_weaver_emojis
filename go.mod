@@ -1,4 +1,4 @@
-module goog
+module emojis
 
 go 1.21.0
 
